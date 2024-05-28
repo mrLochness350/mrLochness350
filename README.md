@@ -1,8 +1,6 @@
 
-just a bored student learning how to hack
+i like making and breaking malware lol
 
-**my socials**: 
-* discord: mrLochness350#7880
-thats about it
+my blog: https://mrloch.dev
 
 most of the repos i upload will be private because im not done with them
