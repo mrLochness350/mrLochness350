@@ -13,7 +13,7 @@ These days, I mostly develop in Rust, focusing on custom tooling, reverse engine
 
 ## Blog [![Blog](https://img.shields.io/website?url=https%3A%2F%2Fmrloch.dev)](https://mrloch.dev)
 
-If you'd to read some malware analysis reports I made or some of my notes on my C2 framework, feel free to visit my blog: [mrloch.dev](https://mrloch.dev)
+If you'd like to read some malware analysis reports I made or some of my notes on my C2 framework, feel free to visit my blog: [mrloch.dev](https://mrloch.dev)
 
 ## Send Me Malware
 
