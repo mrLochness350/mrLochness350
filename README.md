@@ -1,15 +1,18 @@
 ![Rust](https://img.shields.io/badge/lang-Rust-orange)
 ![Reverse Engineering](https://img.shields.io/badge/focus-Reverse%20Engineering-darkred)
 ![C2 Frameworks](https://img.shields.io/badge/building-C2%20Frameworks-blue)
-## Malware Developer & Reverse Engineer
+## Malware Developer, Reverse Engineer & Aspiring Astrophysicist
 
 Hey :) I'm mrLochness350 — a security researcher by day, and a malware developer & analyst by night.
 These days, I mostly develop in Rust, focusing on custom tooling, reverse engineering, and C2 frameworks.
+I'm also a student, working towards a bachelors in physics!
 
 ## Projects
 
-* Main developer on the [Azathoth C2 framework](https://github.com/AzathothC2/)
+* Current maintainer and main developer on the [Azathoth C2 framework](https://github.com/AzathothC2/)
 * My crates.io page: [Crates.io](https://crates.io/users/mrLochness350)
+* Current maintainer and main developer for [Donut-rs](https://github.com/mrLochness350/donut-rs)
+* Working on the [Kepler](https://github.com/mrLochness350/kepler) engine, a cli tool/server for astrodynamic and orbital calculations written in Rust
 
 ## Blog [![Blog](https://img.shields.io/website?url=https%3A%2F%2Fmrloch.dev)](https://mrloch.dev)
 
@@ -25,3 +28,4 @@ If you have any suspicious files you'd like me to analyze, feel free to send the
 ## Socials
 * [Bluesky](https://bsky.app/profile/az-dev12.bsky.social)
 * [Crates.io](https://crates.io/users/mrLochness350)
+* [Blog](https://mrloch.dev)
