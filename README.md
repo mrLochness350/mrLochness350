@@ -3,7 +3,7 @@
 ![C2 Frameworks](https://img.shields.io/badge/building-C2%20Frameworks-blue)
 ## Malware Developer, Reverse Engineer & Aspiring Astrophysicist
 
-Hey :) I'm mrLochness350 — a security researcher by day, and a malware developer & analyst by night.
+Hey :) I'm mrLochness350, a security researcher by day, and a malware developer & analyst by night.
 These days, I mostly develop in Rust, focusing on custom tooling, reverse engineering, and C2 frameworks.
 I'm also a student, working towards a bachelors in physics!
 
